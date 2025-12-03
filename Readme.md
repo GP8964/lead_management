@@ -23,6 +23,7 @@ Backend runs on **http://localhost:4000**
 ```
 cd frontend
 npm install
-npm run start
+npm run dev
 ```
+
 Frontend runs on **http://localhost:3000**
